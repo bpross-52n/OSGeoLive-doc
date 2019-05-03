@@ -1,16 +1,16 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2011, OSGeo
+# Copyright (C) 2011~2018, OSGeo
 # This file is distributed under the same license as the OSGeoLive package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 11.0.0.-dev\n"
+"Project-Id-Version: OSGeoLive 12.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-25 22:49-0600\n"
+"POT-Creation-Date: 2018-08-08 15:38-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Nicolas Roelandt (Personnel) <roelandtn.pro@gmail.com>, 2017\n"
+"Last-Translator: Nicolas Roelandt, 2017\n"
 "Language-Team: French (https://www.transifex.com/osgeo/teams/66156/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,14 +24,47 @@ msgstr "Copyright OSGeoLive"
 
 #: ../../build/doc/copyright.rst:4
 msgid ""
-"OSGeoLive is composed entirely of free software, free data and free "
-"documentation, allowing it to be freely distributed, duplicated and passed "
-"around."
+"OSGeo-Live is a self-contained bootable DVD, USB thumb drive or Virtual "
+"Machine based on Lubuntu, that allows you to try a wide variety of open "
+"source geospatial software without installing anything. It is composed "
+"entirely of free software, allowing it to be freely distributed, duplicated "
+"and passed around."
 msgstr ""
-"OSGeoLive est entièrement composé de logiciels, données et documentations "
-"libres, ce qui lui permet de pouvoir être distribué, dupliqué et transmis."
+"OSGeo-Live est un DVD, une clé USB bootable ou une image disque virtuelle "
+"indépendante basée sur Lubuntu, qui vous permet d’essayer une large variété "
+"de logiciels opensource géospatiaux sans avoir à installer quoi que ce soit."
+" Il repose entièrement sur des logiciels libres, ce qui permet de le "
+"redistribuer, dupliquer gratuitement et de le donner à n’importe qui."
 
-#: ../../build/doc/copyright.rst:6
+#: ../../build/doc/copyright.rst:7
+msgid "License of OSGeo-Live"
+msgstr "License d'OSGeo-Live"
+
+#: ../../build/doc/copyright.rst:8
+msgid ""
+"The OSGeo-Live project is distributed under `LGPL license v2.1 "
+"<http://www.gnu.de/documents/lgpl-2.1.en.html>`__. All documentation is "
+"provided under a `Creative Commons Attribution 3.0 Unported License "
+"<https://creativecommons.org/licenses/by/3.0/>`_."
+msgstr ""
+"Le projet OSGeo-Live est distibué sous `licence LGPL v2.1 "
+"<http://www.gnu.de/documents/lgpl-2.1.en.html>`__. Toute la documentation "
+"est fournie sous  une licence `Creative Commons Attribution 3.0 Unported "
+"License <https://creativecommons.org/licenses/by/3.0/>`_."
+
+#: ../../build/doc/copyright.rst:10
+msgid ""
+"OSGeo-Live is composed entirely of free software, free data and free "
+"documentation, allowing it to be freely distributed, duplicated and passed "
+"around. The licenses of all the packaged projects are summarized further on "
+"this page."
+msgstr ""
+"OSGeo-Live est composé entièrement de logiciels libres, de données libres et"
+" d'une documentation libre, permettant de la distribuer, dupliquer et donner"
+" librement. Les licenses de tous les projects empaquetés sont résumées plus "
+"loin sur cette  page."
+
+#: ../../build/doc/copyright.rst:12
 msgid ""
 "Project Overviews and Overview Translations, are provided under a `Creative "
 "Commons Attribution 3.0 Unported License "
@@ -41,7 +74,7 @@ msgstr ""
 "`licence Creative Commons Attribution 3.0 "
 "<https://creativecommons.org/licenses/by/3.0/>`_."
 
-#: ../../build/doc/copyright.rst:7
+#: ../../build/doc/copyright.rst:13
 msgid ""
 "Quickstarts and Quickstart Translations, are provided under a `Creative "
 "Commons Attribution-ShareAlike 3.0 Unported License "
@@ -51,14 +84,14 @@ msgstr ""
 "Creative Commons Paternité-Partage des Conditions Initiales à l'Identique "
 "3.0 non transposé <https://creativecommons.org/licenses/by-sa/3.0/>`_."
 
-#: ../../build/doc/copyright.rst:8
+#: ../../build/doc/copyright.rst:14
 msgid ""
 "Documentation might also be available under other licenses, as listed below."
 msgstr ""
 "La documentation peut aussi être disponible sous d'autres licences, comme "
 "listé ci-dessous."
 
-#: ../../build/doc/copyright.rst:9
+#: ../../build/doc/copyright.rst:15
 msgid ""
 "Software on OSGeoLive is available under various Free and Open Source "
 "licenses, as listed in the Project Overviews."
@@ -66,17 +99,17 @@ msgstr ""
 "Les logiciels présents dans OSGeoLive sont disponibles sous diverses "
 "licences Libres et  Open Source, comme indiqué dans les aperçus de projet."
 
-#: ../../build/doc/copyright.rst:10
+#: ../../build/doc/copyright.rst:16
 msgid "Data on OSGeoLive is available under various Open Licences."
 msgstr ""
 "Les données présentes dans OSGeoLive sont disponibles sous différentes "
 "licences ouvertes."
 
-#: ../../build/doc/copyright.rst:13
+#: ../../build/doc/copyright.rst:19
 msgid "Attributing OSGeoLive Documentation"
 msgstr "Attribution de la documentation OSGeoLive"
 
-#: ../../build/doc/copyright.rst:14
+#: ../../build/doc/copyright.rst:20
 msgid ""
 "As per the `terms of the Creative Commons license "
 "<https://wiki.creativecommons.org/Frequently_Asked_Questions#How_do_I_properly_attribute_a_Creative_Commons_licensed_work.3F>`_,"
@@ -95,7 +128,7 @@ msgstr ""
 "document devra aussi être sous la licence `CC By-SA "
 "<https://creativecommons.org/licenses/by-sa/3.0/>`_."
 
-#: ../../build/doc/copyright.rst:17
+#: ../../build/doc/copyright.rst:23
 msgid ""
 "Note that images are not necessarily provided under the same CC license as "
 "the text; check with the author."
@@ -103,17 +136,17 @@ msgstr ""
 "Notez que les images ne sont pas nécessairement fournies sous la même "
 "licence CC que le texte; vérifiez avec l'auteur."
 
-#: ../../build/doc/copyright.rst:19
+#: ../../build/doc/copyright.rst:25
 msgid "You may use attribution text similar to one of the following:"
 msgstr ""
 "Vous pouvez utiliser un texte d'attribution similaire à l'un des textes "
 "suivants:"
 
-#: ../../build/doc/copyright.rst:21
+#: ../../build/doc/copyright.rst:27
 msgid "**Verbose, suitable for a 100 page thesis:**"
 msgstr "**Verbeux, adapté pour un rapport de 100 pages:**"
 
-#: ../../build/doc/copyright.rst:23
+#: ../../build/doc/copyright.rst:29
 msgid ""
 "|CC-By-SA-med| This document includes content from the \"gvSIG Quickstart\" "
 "created by Simon Cropper under the Creative Commons Attribution-ShareAlike "
@@ -130,11 +163,11 @@ msgstr ""
 "téléchargée le 25 Juillet 2011. Le travail original a été traduit de "
 "l'anglais à l'allemand."
 
-#: ../../build/doc/copyright.rst:28
+#: ../../build/doc/copyright.rst:34
 msgid "**Concise CC-By-SA and attribution:**"
 msgstr "**CC-By-SA concise et attribution:**"
 
-#: ../../build/doc/copyright.rst:30
+#: ../../build/doc/copyright.rst:36
 msgid ""
 "© 2011 [Your Name] under a `CC By SA License "
 "<https://creativecommons.org/licenses/by-sa/3.0/>`_.  [Derived "
@@ -147,11 +180,11 @@ msgstr ""
 "par `les contributeurs OSGeoLive "
 "<http://live.osgeo.org/en/copyright.html>`_."
 
-#: ../../build/doc/copyright.rst:32
+#: ../../build/doc/copyright.rst:38
 msgid "**Alternative Concise CC-By and attribution:**"
 msgstr "**CC-By alternative concise et attribution:**"
 
-#: ../../build/doc/copyright.rst:34
+#: ../../build/doc/copyright.rst:40
 msgid ""
 "|CC-By-small| © 2011 [Your Name]. [Derived from|Includes|Extends] `OSGeoLive"
 " <http://live.osgeo.org>`_ Project Overviews by `OSGeoLive contributors "
@@ -161,11 +194,11 @@ msgstr ""
 "de démarrage rapides du projet `OSGeoLive <http://live.osgeo.org>`_ par les "
 "`contributeurs OSGeoLive <http://live.osgeo.org/en/copyright.html>`_."
 
-#: ../../build/doc/copyright.rst:39
+#: ../../build/doc/copyright.rst:45
 msgid "**Minimum (for Project Overviews), attribution only:**"
 msgstr "**Minimum (pour les vues d'ensemble), attribution seulement:**"
 
-#: ../../build/doc/copyright.rst:41
+#: ../../build/doc/copyright.rst:47
 msgid ""
 "This document includes `OSGeoLive <http://live.osgeo.org>`_ Project "
 "Overviews by `OSGeoLive contributors "
@@ -175,11 +208,11 @@ msgstr ""
 "<http://live.osgeo.org>`_ par les `contributeurs OSGeoLive "
 "<http://live.osgeo.org/en/copyright.html>`_."
 
-#: ../../build/doc/copyright.rst:44
+#: ../../build/doc/copyright.rst:50
 msgid "Documentation Contributors"
 msgstr "Contributeurs de la documentation"
 
-#: ../../build/doc/copyright.rst:46
+#: ../../build/doc/copyright.rst:52
 msgid ""
 "The table below credits the contributors for each of the documents on "
 "OSGeoLive."
@@ -187,7 +220,7 @@ msgstr ""
 "La table ci-dessous crédite les contributeurs pour chaque document sur "
 "l'OSGeoLive."
 
-#: ../../build/doc/copyright.rst:48
+#: ../../build/doc/copyright.rst:54
 msgid "OSGeoLive Document Contributors"
 msgstr "Contributeurs aux documents OSGeoLive"
 
@@ -1425,11 +1458,11 @@ msgstr "Angelos Tzotsos; Cameron Shorter, Jirotech"
 msgid "zygrib_quickstart"
 msgstr "zygrib_quickstart"
 
-#: ../../build/doc/copyright.rst:53
+#: ../../build/doc/copyright.rst:59
 msgid "Disclaimer"
 msgstr "Clause de non-responsabilité"
 
-#: ../../build/doc/copyright.rst:55
+#: ../../build/doc/copyright.rst:61
 msgid ""
 "*The contents of OSGeoLive are provided by the copyright holders and "
 "contributors \"as is\" and any express or implied warranties, including, but"

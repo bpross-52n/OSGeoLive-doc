@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2011, OSGeo
+# Copyright (C) 2011~2018, OSGeo
 # This file is distributed under the same license as the OSGeoLive package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 11.0.0.-dev\n"
+"Project-Id-Version: OSGeoLive 12.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-25 22:49-0600\n"
+"POT-Creation-Date: 2018-08-23 13:13-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Thomas Gratier <thomas_gratier@yahoo.fr>, 2017\n"
 "Language-Team: French (https://www.transifex.com/osgeo/teams/66156/fr/)\n"
@@ -209,10 +209,11 @@ msgstr ""
 "of screen\" pour avoir la barre d'outils Mini."
 
 #: ../../build/doc/quickstart/virtualization_quickstart.rst:78
-msgid "Go to the \"Display\" section and increase video memory to 32 or 64 MB."
+msgid ""
+"Go to the \"Display\" section and increase video memory to 32 or 64 MB. In "
+"some host operating systems, it may be required to \"Enable 3D "
+"Acceleration\" for display to work properly."
 msgstr ""
-"Allez dans la section \"Display\" et augmentez la mémoire vidéo à 32 ou 64 "
-"MB."
 
 #: ../../build/doc/quickstart/virtualization_quickstart.rst:83
 msgid ""

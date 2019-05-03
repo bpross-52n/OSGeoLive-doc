@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2011, OSGeo
+# Copyright (C) 2011~2018, OSGeo
 # This file is distributed under the same license as the OSGeoLive package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 11.0.0.-dev\n"
+"Project-Id-Version: OSGeoLive 12.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-25 22:49-0600\n"
+"POT-Creation-Date: 2018-08-08 15:38-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -45,7 +45,7 @@ msgid "Opening Data"
 msgstr ""
 
 #: ../../build/doc/quickstart/saga_quickstart.rst:51
-msgid "Open the SAGA GUI and load the grid `/home/user/saga/DGM_30m_Mt.St.Helens_SRTM.grd` via the **File|Grid|Load** menu."
+msgid "Open the SAGA GUI and load the grid `/home/user/data/saga/DGM_30m_Mt.St.Helens_SRTM.grd` via the **File|Grid|Load** menu."
 msgstr ""
 
 #: ../../build/doc/quickstart/saga_quickstart.rst:54
@@ -61,7 +61,7 @@ msgid "SAGA's grid systems are referenced by the bottom left corner. This, and s
 msgstr ""
 
 #: ../../build/doc/quickstart/saga_quickstart.rst:72
-msgid "You can also load data by dragging and dropping it on the application. Try this with one of the datasets in the ** /home/user/gdal_natural_earth/** folder."
+msgid "You can also load data by dragging and dropping it on the application. Try this with one of the datasets in the ** /home/user/data/gdal_natural_earth/** folder."
 msgstr ""
 
 #: ../../build/doc/quickstart/saga_quickstart.rst:76
