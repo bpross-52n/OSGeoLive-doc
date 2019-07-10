@@ -39,6 +39,8 @@ General GIS viewing, editing and analysis in the browser:
 
 |osgeoproject| :doc:`mapbender_overview` - [:doc:`QuickStart <../quickstart/mapbender_quickstart>`] - Geoportal Framework
 
+|nologo| :doc:`geoext_overview` - [:doc:`QuickStart <../quickstart/geoext_quickstart>`] -  JavaScript Toolkit for Web Mapping
+
 |osgeoproject| :doc:`geomoose_overview` - [:doc:`QuickStart <../quickstart/geomoose_quickstart>`] - Web GIS Portal
 
 |osgeoproject| :doc:`geonode_overview` - [:doc:`QuickStart <../quickstart/geonode_quickstart>`] - Geospatial Content Management System
@@ -73,6 +75,8 @@ Publishing spatial data to the internet:
 |nologo| :doc:`52nWPS_overview` - [:doc:`QuickStart <../quickstart/52nWPS_quickstart>`] - Web Processing Service
 
 |osgeocommunity| :doc:`zoo-project_overview` - [:doc:`QuickStart <../quickstart/zoo-project_quickstart>`] - Web Processing Service
+
+|nologo| :doc:`t-rex_overview` - [:doc:`QuickStart <../quickstart/t-rex_quickstart>`] - Vector Tile Service
 
 Data Stores
 --------------------------------------------------------------------------------
