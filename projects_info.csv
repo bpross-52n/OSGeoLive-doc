@@ -16,6 +16,7 @@ Y  |  leaflet  |  1.0.3  |  Y  |  Y  |  Browser Facing GIS  |    |  Mobile Frien
 Y  | cesium |1.46| Y | Y | Browser Facing GIS | | 3D globes and 2D maps in a browser | cesiumjs| | |Cesium
 Y  |  geomajas  ||  Y  |  Y  |  Browser Facing GIS  |    |  Browser GIS Client  |  geomajas|http://www.geomajas.org|OSGeo_project|Geomajas
 Y  |  mapbender  |  3.0.7.3  |  Y  |  Y  |  Browser Facing GIS  |    |  Geoportal Framework  |  mapbender|http://www.mapbender.org|OSGeo_project|Mapbender
+Y  |  geoext  |  3.1.0  |  Y  |  Y  |  Browser Facing GIS  |    |  JavaScript Toolkit Web Mapping |  geoext3|https://geoext.github.io/geoext3||GeoExt
 Y  |  geomoose  |  3.2.0  |  Y  |  Y  |  Browser Facing GIS  |    |  Web GIS Portal  |  geomoose|http://www.geomoose.org/|OSGeo_project|GeoMoose
 Y  |  geonode  |  2.6.1  |  Y  |  Y  |  Browser Facing GIS  |    |  Geospatial Content Management System  |  geonode|http://geonode.org|OSGeo_project|GeoNode
 ######################| | | | | | | | | | |
@@ -35,6 +36,7 @@ Y  |  istsos  |  2.3.1  |  Y  |  Y  |  Web Services  |    |  Sensor Observation 
 Y  |  52nSOS  |  4.4.0  |  Y  |  Y  |  Web Services  |    |  Sensor Observation Service  |  SensorObservationService|https://52north.org/sos| |52 North SOS
 Y  |  52nWPS  |  3.6.2  |  Y  |  Y  |  Web Services  |    |  Web Processing Service  |  n52-wps|https://52north.org/wps| |52 North WPS
 Y  |  zoo-project  |  1.6.0  |  Y  |  Y  |  Web Services  |    |  Web Processing Service  |  zoo-project|http://zoo-project.org/|OSGeo_incubation|Zoo Project
+Y  |  t-rex  |  0.9.0  |  Y  |  Y  |  Web Services  |    |  Vector Tile Service  |  t-rex|https://t-rex.tileserver.ch/| |t-rex
 ######################| | | | | | | | | | |
 # Data Stores| | | | | | | | | | |
 ######################| | | | | | | | | | |
